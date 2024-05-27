@@ -1,3 +1,4 @@
+# RU
 # TRUDVSEM.RU Парсер вакансий
 
 Этот проект представляет собой скрипт для парсинга вакансий из JSON файлов, предоставленных порталом "Работа в России". Скрипт обрабатывает данные и сохраняет их в формате Excel.
@@ -86,7 +87,10 @@
 
 ## регионы
 
-Список регионов и коды можно найти на портале "Работа в России" (https://trudvsem.ru/opendata/datasets).
+
+Файл region_codes.txt содержит наименования всех регионов и их коды по состоянию на 27.05.2024
+Список регионов и коды можно найти на портале "Работа в России" (https://opendata.trudvsem.ru/json/regions.json).
+
 
 ## вакансии
 
@@ -109,7 +113,7 @@ Email: f.m.somov@ya.ru
 
 
 
-
+# EN
 # TRUDVSEM.RU Vacancies Parser
 
 This project is a script for parsing job vacancies from JSON files provided by the "Work in Russia" portal. The script processes the data and saves it in Excel format.
@@ -195,7 +199,9 @@ When running .py or .exe for the first time, the script will check for the exist
 
 ## Region Codes
 
-A list of regions and codes can be found on the "Work in Russia" portal (https://trudvsem.ru/opendata/datasets).
+
+region_codes.txt contains all regions and codes. Update at 27.05.2024
+A list of regions and codes can be found on the "Work in Russia" portal (https://opendata.trudvsem.ru/json/regions.json).
 
 ## Job Vacancy Files
 
