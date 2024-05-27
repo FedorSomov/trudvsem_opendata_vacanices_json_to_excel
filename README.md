@@ -1,4 +1,6 @@
-# RU
+[Русский](#русский) | [English](#english)
+
+# Русский
 # TRUDVSEM.RU Парсер вакансий
 
 Этот проект представляет собой скрипт для парсинга вакансий из JSON файлов, предоставленных порталом "Работа в России". Скрипт обрабатывает данные и сохраняет их в формате Excel.
@@ -113,7 +115,7 @@ Email: f.m.somov@ya.ru
 
 
 
-# EN
+# English
 # TRUDVSEM.RU Vacancies Parser
 
 This project is a script for parsing job vacancies from JSON files provided by the "Work in Russia" portal. The script processes the data and saves it in Excel format.
